@@ -9,6 +9,7 @@ This organisation provides links to contributions in the King's Knowledge Graph 
 |  |  |  |
 | *Wikidata-Discussions-Parser* | A library to extract information from Wikidata XML files. | [Repo](https://github.com/King-s-Knowledge-Graph-Lab/Wikidata-Discussion-Parser)<br /> |
 | *Wikidata-Discussions-Stats* | A process to separate raw Wikidata discussions data and python code to produce descriptive statistics. | [Repo](https://github.com/King-s-Knowledge-Graph-Lab/Wikidata-Discussions-Stats) |
+| *Collaborative_knowledge_engineering_Wikidata* | Data and scripts to analyse Wikidata discussions. | [Repo](https://github.com/ElisavetK/Collaborative_knowledge_engineering_Wikidata) |
 | *List.MID* | Benchmark to evaluate performance of triplestores at processing RDF lists. | [Repo](https://github.com/midi-ld/List.MID )<br />[Article](https://www.albertmeronyo.org/wp-content/uploads/2019/06/ISWC2019_paper_257.pdf)|
 | *midi2vec* | Code for learning MIDI embeddings from MIDI RDF knowledge graphs. | [Repo](https://github.com/midi-ld/midi2vec)<br />[Article](https://www.albertmeronyo.org/wp-content/uploads/2021/08/midi2vec-2.pdf)|
 | *grlc* | Lightweight server that generates REST APIs automatically based on collaboratively written SPARQL queries. | [Repo](https://github.com/CLARIAH/grlc)<br />[Article](https://link.springer.com/content/pdf/10.1007%2F978-3-319-47602-5_48.pdf)|
